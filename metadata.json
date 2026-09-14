@@ -1,0 +1,7 @@
+{
+  "name": "Hostel & Canteen",
+  "description": "Smart attendance, roll call curfew tracking, gate pass logs, and mess menu & canteen management for girls hostel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
